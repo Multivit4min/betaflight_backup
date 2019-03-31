@@ -1,5 +1,7 @@
 Tekko 32 Metal Resource Mapping for Kakute F7 STM
 
+Mixer: QuadX
+
 ```
 resource MOTOR 1 none
 resource MOTOR 2 none
